@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3a0b12ca90a3efbd92570edac9ef333b\transformed\ui-tooling-1.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\4f73c28230c1b1dc82bdf76217fdb558\transformed\activity-compose-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3982e8f4129da372834c58f7eb4aa928\transformed\material3-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\ba051deb2161655072b159d6b443816a\transformed\material-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b1f45c66e926589138cc4241eccbfc17\transformed\material-ripple-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\681afb563e747975369219f592d4e0ac\transformed\foundation-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1f22d86445a05c53baead9fd4f6dfd39\transformed\animation-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f393959a2d26d80ba30a508a7c0c8e38\transformed\foundation-layout-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\90a2ab9565c39c23609a378bbd3cdbcf\transformed\animation-core-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1b847dda6ee10d1012bc4dabe2413260\transformed\material-icons-core-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\55f469ed472396e6be978fbaab6ed611\transformed\ui-tooling-data-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\206886639d5cd0b1f7c131d8eb55441f\transformed\ui-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\990cec1dfb3859aa5cec333041f62fe8\transformed\ui-text-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\0c34d6b23b3034a9bfeda189015bd572\transformed\ui-graphics-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\93fa722de13a90f5348c959be37273da\transformed\ui-tooling-preview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\a449055313405752dd343b170a853177\transformed\runtime-saveable-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\16c5a37fcb2d1136bc2d178cc36b49a6\transformed\ui-unit-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\12d353b639f132bcc5ec98bfe593fd92\transformed\ui-geometry-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\04bd73777c795a929022739547c6d644\transformed\runtime-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1cdef90c8ff5732ac68a16d51552d416\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\0ee76e4b925a9e16c63d0d818abc2e95\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f225e3fd8bc5d1f5cd52623311080e98\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\784de8289346837eb7adfdccea4a11a8\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9e91adbcf654e618aa97dbef75b602fa\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\5e375831b6a6cf744881a095793f9260\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\a86d5336d2851c7b5c0e9a82a6165751\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Gab-Ale\.gradle\caches\transforms-3\70544d39dbec5ca716291ccc81c2e5c1\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\6f9ae24313f57d137a08e0e9dc1f2d0b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\13f89fd1403b83da6a41e74944e0ec52\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f258a7d2409f60006990bb88381995a6\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\cf9b0ad25dd9e44b7bb12d13e302dcc6\transformed\ui-util-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\55f7b354142332da15cdd63963dbdda8\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\ad9621dfe6f29ea8a18a5f71f0a7957c\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b7094c00d5f399a5ce9a4076b64eab9f\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\7b76e75fe7f5e5bbe4a4c56a595730d9\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\79c596c7991138e2b0143a47c2ae2ed0\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\4941e5e0295762ecf4bd956998bd5b17\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\baeb4c3f69921093d0566e9a4caeaa07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9acd6b343471a27ae6547dec0fc12955\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3847be2f2e34a26bea5d4ba8d5969961\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b866a2d4113b2e33d0aa54397fc95e94\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\2487357ce7a812acb209b656d9026ea5\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:5:5-26:19
+INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3a0b12ca90a3efbd92570edac9ef333b\transformed\ui-tooling-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3a0b12ca90a3efbd92570edac9ef333b\transformed\ui-tooling-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\784de8289346837eb7adfdccea4a11a8\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\784de8289346837eb7adfdccea4a11a8\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b7094c00d5f399a5ce9a4076b64eab9f\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b7094c00d5f399a5ce9a4076b64eab9f\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\baeb4c3f69921093d0566e9a4caeaa07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\baeb4c3f69921093d0566e9a4caeaa07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9acd6b343471a27ae6547dec0fc12955\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9acd6b343471a27ae6547dec0fc12955\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b7094c00d5f399a5ce9a4076b64eab9f\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:13:9-52
+	android:dataExtractionRules
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:7:9-65
+activity#br.com.fiap.listadecompras.MainActivity
+ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3a0b12ca90a3efbd92570edac9ef333b\transformed\ui-tooling-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3a0b12ca90a3efbd92570edac9ef333b\transformed\ui-tooling-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\4f73c28230c1b1dc82bdf76217fdb558\transformed\activity-compose-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\4f73c28230c1b1dc82bdf76217fdb558\transformed\activity-compose-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3982e8f4129da372834c58f7eb4aa928\transformed\material3-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3982e8f4129da372834c58f7eb4aa928\transformed\material3-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\ba051deb2161655072b159d6b443816a\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\ba051deb2161655072b159d6b443816a\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b1f45c66e926589138cc4241eccbfc17\transformed\material-ripple-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b1f45c66e926589138cc4241eccbfc17\transformed\material-ripple-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\681afb563e747975369219f592d4e0ac\transformed\foundation-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\681afb563e747975369219f592d4e0ac\transformed\foundation-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1f22d86445a05c53baead9fd4f6dfd39\transformed\animation-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1f22d86445a05c53baead9fd4f6dfd39\transformed\animation-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f393959a2d26d80ba30a508a7c0c8e38\transformed\foundation-layout-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f393959a2d26d80ba30a508a7c0c8e38\transformed\foundation-layout-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\90a2ab9565c39c23609a378bbd3cdbcf\transformed\animation-core-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\90a2ab9565c39c23609a378bbd3cdbcf\transformed\animation-core-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1b847dda6ee10d1012bc4dabe2413260\transformed\material-icons-core-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1b847dda6ee10d1012bc4dabe2413260\transformed\material-icons-core-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\55f469ed472396e6be978fbaab6ed611\transformed\ui-tooling-data-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\55f469ed472396e6be978fbaab6ed611\transformed\ui-tooling-data-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\206886639d5cd0b1f7c131d8eb55441f\transformed\ui-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\206886639d5cd0b1f7c131d8eb55441f\transformed\ui-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\990cec1dfb3859aa5cec333041f62fe8\transformed\ui-text-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\990cec1dfb3859aa5cec333041f62fe8\transformed\ui-text-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\0c34d6b23b3034a9bfeda189015bd572\transformed\ui-graphics-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\0c34d6b23b3034a9bfeda189015bd572\transformed\ui-graphics-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\93fa722de13a90f5348c959be37273da\transformed\ui-tooling-preview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\93fa722de13a90f5348c959be37273da\transformed\ui-tooling-preview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\a449055313405752dd343b170a853177\transformed\runtime-saveable-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\a449055313405752dd343b170a853177\transformed\runtime-saveable-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\16c5a37fcb2d1136bc2d178cc36b49a6\transformed\ui-unit-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\16c5a37fcb2d1136bc2d178cc36b49a6\transformed\ui-unit-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\12d353b639f132bcc5ec98bfe593fd92\transformed\ui-geometry-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\12d353b639f132bcc5ec98bfe593fd92\transformed\ui-geometry-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\04bd73777c795a929022739547c6d644\transformed\runtime-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\04bd73777c795a929022739547c6d644\transformed\runtime-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1cdef90c8ff5732ac68a16d51552d416\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\1cdef90c8ff5732ac68a16d51552d416\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\0ee76e4b925a9e16c63d0d818abc2e95\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\0ee76e4b925a9e16c63d0d818abc2e95\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f225e3fd8bc5d1f5cd52623311080e98\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f225e3fd8bc5d1f5cd52623311080e98\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\784de8289346837eb7adfdccea4a11a8\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\784de8289346837eb7adfdccea4a11a8\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9e91adbcf654e618aa97dbef75b602fa\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9e91adbcf654e618aa97dbef75b602fa\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\5e375831b6a6cf744881a095793f9260\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\5e375831b6a6cf744881a095793f9260\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\a86d5336d2851c7b5c0e9a82a6165751\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\a86d5336d2851c7b5c0e9a82a6165751\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Gab-Ale\.gradle\caches\transforms-3\70544d39dbec5ca716291ccc81c2e5c1\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Gab-Ale\.gradle\caches\transforms-3\70544d39dbec5ca716291ccc81c2e5c1\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\6f9ae24313f57d137a08e0e9dc1f2d0b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\6f9ae24313f57d137a08e0e9dc1f2d0b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\13f89fd1403b83da6a41e74944e0ec52\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\13f89fd1403b83da6a41e74944e0ec52\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f258a7d2409f60006990bb88381995a6\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\f258a7d2409f60006990bb88381995a6\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\cf9b0ad25dd9e44b7bb12d13e302dcc6\transformed\ui-util-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\cf9b0ad25dd9e44b7bb12d13e302dcc6\transformed\ui-util-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\55f7b354142332da15cdd63963dbdda8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\55f7b354142332da15cdd63963dbdda8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\ad9621dfe6f29ea8a18a5f71f0a7957c\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\ad9621dfe6f29ea8a18a5f71f0a7957c\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b7094c00d5f399a5ce9a4076b64eab9f\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b7094c00d5f399a5ce9a4076b64eab9f\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\7b76e75fe7f5e5bbe4a4c56a595730d9\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\7b76e75fe7f5e5bbe4a4c56a595730d9\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\79c596c7991138e2b0143a47c2ae2ed0\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\79c596c7991138e2b0143a47c2ae2ed0\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\4941e5e0295762ecf4bd956998bd5b17\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\4941e5e0295762ecf4bd956998bd5b17\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\baeb4c3f69921093d0566e9a4caeaa07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\baeb4c3f69921093d0566e9a4caeaa07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9acd6b343471a27ae6547dec0fc12955\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9acd6b343471a27ae6547dec0fc12955\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3847be2f2e34a26bea5d4ba8d5969961\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3847be2f2e34a26bea5d4ba8d5969961\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b866a2d4113b2e33d0aa54397fc95e94\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\b866a2d4113b2e33d0aa54397fc95e94\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\2487357ce7a812acb209b656d9026ea5\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\2487357ce7a812acb209b656d9026ea5\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gab-Ale\Desktop\ListaDeCompras-develop\ListaDeCompras\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3a0b12ca90a3efbd92570edac9ef333b\transformed\ui-tooling-1.3.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3a0b12ca90a3efbd92570edac9ef333b\transformed\ui-tooling-1.3.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\3a0b12ca90a3efbd92570edac9ef333b\transformed\ui-tooling-1.3.0\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\784de8289346837eb7adfdccea4a11a8\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\784de8289346837eb7adfdccea4a11a8\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\784de8289346837eb7adfdccea4a11a8\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9acd6b343471a27ae6547dec0fc12955\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gab-Ale\.gradle\caches\transforms-3\9acd6b343471a27ae6547dec0fc12955\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Gab-Ale\.gradle\caches\transforms-3\e6e645ba4888965e51b1a05c97713428\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:25-82
